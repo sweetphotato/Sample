@@ -13,6 +13,10 @@ int main()
     for (i = 0; i < 10; i++)
     {
         std::cout << i << endl;
+
+        std::cout << i+i << endl;
+
+        std:cout << i * 3 << endl;
     }
 }
 
